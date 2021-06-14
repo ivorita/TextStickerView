@@ -1,1 +1,2 @@
-include ':app', ':ColorPalette'
+rootProject.name = "ZoomTextView"
+include ':app'

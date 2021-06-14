@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">TextStickerViewDemo</string>
+    <string name="app_name">ZoomTextView</string>
     <string name="input_hint">输入文本</string>
 </resources>
